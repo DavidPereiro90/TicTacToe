@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.codeurjc.ais.tictactoe.WebAppTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.709 sec - in es.codeurjc.ais.tictactoe.WebAppTest
